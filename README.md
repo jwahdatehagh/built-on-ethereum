@@ -1,4 +1,4 @@
-!(built on eth)[./built-on-eth.svg]
+![built on eth](./built-on-eth.svg)
 
 # ethereum-brand
 
